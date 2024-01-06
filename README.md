@@ -63,7 +63,7 @@ html {
   padding: 15px;
 }
 
-/* For mobile phones: */
+
 [class*="col-"] {
   width: 100%;
 }
